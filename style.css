@@ -1,0 +1,26 @@
+h1, h2 {
+    margin : 0;
+    padding : 0;
+}
+
+h1 {
+    font-weight : bold;
+}
+
+header {
+    font-family: alternate-gothic-no-3-d, sans-serif;  
+    position : absolute;
+    bottom : 50px;
+    right : 50px;
+    color : rgba(255,255,255,0.85);
+    font-style: normal;
+    font-weight: light;
+    text-align : right;
+}
+
+body {
+    background-image : url('/mars.jpg');
+    background-size : cover;
+    background-color : black;
+    background-repeat : no-repeat;
+}
